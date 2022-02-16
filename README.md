@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there! I'm Yuri 👋
+
+### Skills
+
+### Tools
 
 <!--
 **yuri0411/yuri0411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
