@@ -16,7 +16,9 @@ I love knitting🧶 and reading📖.
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
 
+<hr>
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/yuri0411?theme=light)
 
 <!--
 **yuri0411/yuri0411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
